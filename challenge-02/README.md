@@ -15,7 +15,7 @@ soma(10, 1 + 5)
 16
 
 // Declare uma nova variável, sem valor.
-var v1 = 0;
+var v1 = 0;;;
 
 /*
 Crie uma função que adicione um valor à variável criada acima, e retorne a string:
