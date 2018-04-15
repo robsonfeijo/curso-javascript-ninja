@@ -12,7 +12,7 @@ function sum(x, y) {
 var mysum = sum(2, 5) + 5;
 
 // Qual o valor atualizado dessa variável?
-16
+12
 
 // Declare uma nova variável, sem valor.
 var v1 = 0;
