@@ -4,7 +4,7 @@ Nesse exercício, você está livre para escolher os nomes para suas variáveis 
 
 ```js
 // Crie uma função que receba dois argumentos e retorne a soma dos mesmos.
-function soma(x, y) {
+function sum(x, y) {
     return(x + y);
 }
 
