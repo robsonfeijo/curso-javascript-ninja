@@ -7,10 +7,9 @@ Nesse exercício, você está livre para escolher os nomes para suas variáveis 
 function soma(x, y) {
     return(x + y);
 }
-soma(10,1)
 
 // Declare uma variável que receba a invocação da função criada acima, passando dois números quaisquer por argumento, e somando `5` ao resultado retornado da função.
-?
+soma(3, 2)
 
 // Qual o valor atualizado dessa variável?
 ?
