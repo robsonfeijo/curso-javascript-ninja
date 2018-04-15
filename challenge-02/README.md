@@ -15,7 +15,7 @@ var mysum = sum(2, 5) + 5;
 12
 
 // Declare uma nova variável, sem valor.
-var v1 = 0;
+var newvar;
 
 /*
 Crie uma função que adicione um valor à variável criada acima, e retorne a string:
